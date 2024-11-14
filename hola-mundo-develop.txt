@@ -3,4 +3,8 @@ Nuevo cambio en develop, vamos a subirlo a el develop del remoto
 Nuevo cambio, esta vez haremos un "git push origin" Sin indicar qué rama queremos cambiar, a ver si sube todas
 Este es el cambio que quería hacer ante
 Uno que incluimos por uno que borramos
+<<<<<<< HEAD
 Cambios en la rama develop
+=======
+Cambios en este archivo de la rama main
+>>>>>>> main
