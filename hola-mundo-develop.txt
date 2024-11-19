@@ -15,3 +15,4 @@ Nueva linea totalmente diferente!
 Commit nuevo para estar por delante
 Nueva linea totalmente diferente
 Asap
+Voy a crear un conflicto con newBranch2
