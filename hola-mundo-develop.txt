@@ -10,11 +10,3 @@ Hola
 Adios
 Uuu chalenging
 .
-.xaquqg
-Nueva linea totalmente diferente!
-Commit nuevo para estar por delante
-Nueva linea totalmente diferente
-Asap
-Cambio hecho en main
-Voy a crear un conflicto con newBranch2
-Cositas nuevas de main
