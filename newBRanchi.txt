@@ -1,2 +1,11 @@
 Main
-Cambiso en la newBranch!!
+Cambiso en la newBranch!
+Si se ramifica del main una branch, y dicha rama hace cambios en documentos, y luego 
+se desea mergear la rama modificada, con la rama main: 
+
+No habrá conflictos si, los documentos modificados por la nueva rama no han sido modificados por una 
+otro developer y commiteados en el main.
+
+Sí habrá conflictos si los documentos modificados si han sufrido cambios en el main, y se intenta 
+mergear la nueva rama que también tiene cambios en dichos documentos.
+
