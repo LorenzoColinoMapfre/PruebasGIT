@@ -13,8 +13,10 @@ jobs:
     steps:
       #- name: Checkout code
       #  uses: actions/checkout@v2
-
+      - name: Clonar repo
+        run: actions/checkout@v2
       - name: Run Hello World Script
         run: echo "hola mundo"
-      - run: mkdir "Carpeta"
-      - run: ls -l
+      - name: Cat hola-mundo.txt
+        run: cat hola-mundo.txt
+      
