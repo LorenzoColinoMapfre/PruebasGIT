@@ -14,7 +14,7 @@ jobs:
       #- name: Checkout code
       #  uses: actions/checkout@v2
       - name: Clonar repo
-        run: actions/checkout@v2
+        uses: actions/checkout@v2
       - name: Run Hello World Script
         run: echo "hola mundo"
       - name: Cat hola-mundo.txt
