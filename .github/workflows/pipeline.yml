@@ -5,6 +5,7 @@ on:
     branches:
     #La branches es por tanto una lista de todas las ramas que estará escuchando el yml
       - main
+      - newBranch
 
 jobs:
   hello_world_job:
