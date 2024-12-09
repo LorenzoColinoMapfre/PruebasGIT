@@ -1,2 +1,3 @@
 Este es un archivo desarrollado sdsdw
-Estos son los cambios propios de newBranch developer
+Estos son los cambios propios de newBranch developergit checkout -b nueva-rama
+
