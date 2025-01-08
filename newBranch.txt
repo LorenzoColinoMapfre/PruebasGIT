@@ -1,3 +1,4 @@
 Este es un archivo desarrollado sdsdw
 Estos son los cambios propios de newBranch developer
 
+Cambios en newBranch que meteremos en main para ver si hay conflicto porque ahora los cambios de main no están todavía en newBRanch
